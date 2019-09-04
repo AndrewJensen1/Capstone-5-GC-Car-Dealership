@@ -1,0 +1,14 @@
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\bin\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.deps.json
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\bin\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.runtimeconfig.json
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\bin\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.runtimeconfig.dev.json
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\bin\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.dll
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\bin\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.pdb
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\obj\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.csprojAssemblyReference.cache
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\obj\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.csproj.CoreCompileInputs.cache
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\obj\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.RazorAssemblyInfo.cache
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\obj\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.RazorAssemblyInfo.cs
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\obj\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.AssemblyInfoInputs.cache
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\obj\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.AssemblyInfo.cs
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\obj\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.RazorTargetAssemblyInfo.cache
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\obj\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.dll
+C:\Users\Jense\source\repos\Capstone 5 GC Car Dealership\Capstone 5 GC Car Dealership\obj\Debug\netcoreapp2.2\Capstone 5 GC Car Dealership.pdb
